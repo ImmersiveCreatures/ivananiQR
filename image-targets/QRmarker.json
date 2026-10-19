@@ -1,0 +1,18 @@
+{
+  "imagePath": "image-targets/QRmarker_target.jpeg",
+  "name": "QRmarker",
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 65,
+    "width": 1320,
+    "height": 1760,
+    "isRotated": false,
+    "originalWidth": 1452,
+    "originalHeight": 1760
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1762465865904,
+  "updated": 1762465865904
+}
